@@ -1,3 +1,6 @@
+# 已改名 WeCom 项目地址移至
+https://github.com/lishewen/WeCom-ADOS-Extension
+
 # MarketPlace地址
 https://marketplace.visualstudio.com/items?itemName=lishewen.wechat4work
 
